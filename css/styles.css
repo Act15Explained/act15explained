@@ -76,3 +76,9 @@ li {
     line-height: 1.6;
     font-size: 1.2em;
 }
+
+img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+}
